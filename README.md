@@ -65,4 +65,9 @@ This AI-powered Telegram Bot, built using Node.js, integrates with multiple AI A
   <a href="https://www.linkedin.com/in/yassinedorgaa/" style="color: #333;">LinkedIn Profile</a>
 </p>
 
+<p>
+  <strong style="color: #007bff;">Yassine Dorgâa</strong><br>
+  <a href="https://www.linkedin.com/in/devrex/" style="color: #333;">LinkedIn Profile</a>
+</p>
+
 ---
