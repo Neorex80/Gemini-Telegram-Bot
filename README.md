@@ -66,7 +66,7 @@ This AI-powered Telegram Bot, built using Node.js, integrates with multiple AI A
 </p>
 
 <p>
-  <strong style="color: #007bff;">Yassine Dorgâa</strong><br>
+  <strong style="color: #007bff;">Rushikesh Pawar</strong><br>
   <a href="https://www.linkedin.com/in/devrex/" style="color: #333;">LinkedIn Profile</a>
 </p>
 
